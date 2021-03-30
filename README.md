@@ -3,8 +3,8 @@ This is a LaTex template of an A0-sized landscape poster displaying information 
 
 Files included:
 
-- Latex_Poster.tex 
-- LaTex_Poster.pdf  
+- Poster_LaTex_template.tex 
+- Poster_LaTex_template.pdf  
 
 
 Material available in OverLeaf upon request.
